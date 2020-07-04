@@ -4,9 +4,6 @@ Cell: +33 (0)6.60.82.77.92
 
 Email: nadir.kadem@gmail.com
 
-Github: @Youpinadi
-
-Age: 40
 
 I am a senior web developer and web addict, passionate about by web technologies. I enjoy my work, teamworking on cool projects and have plenty ideas. I'm currently interessed in React and functional programming. I'm always motivated.
 
@@ -34,12 +31,14 @@ I am a senior web developer and web addict, passionate about by web technologies
 - Switched the site to TWIG (doubling page speed)
 - New flash player (new architecture + switch to actionscript 3) with another developer
 - HTML5 version of the site (html5 video player) <details>
-  <summary>Dailymotion HTML5 demo</summary>
+    <summary>Dailymotion HTML5 demo</summary>
+
   ![Dailymotion HTML5 demo](http://youpinadi.github.io/images/html5.png)
-</details>
+  </details>
 
 - HTML5 interface for Google TV/Chrome Webs Store and future set top boxes : Stream <details>
   <summary>Dailymotion Stream</summary>
+  
   ![Dailymotion Stream](http://youpinadi.github.io/images/stream.png)
 </details>
 
