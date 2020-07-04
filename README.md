@@ -1,11 +1,10 @@
 Nadir Kadem
 
-Cell: +33 (0)6.60.82.77.92
+> Cell: +33 (0)6.60.82.77.92
 
-Email: nadir.kadem@gmail.com
+> Email: nadir.kadem@gmail.com
 
-
-I am a senior web developer and web addict, passionate about by web technologies. I enjoy my work, teamworking on cool projects and have plenty ideas. I'm currently interessed in React and functional programming. I'm always motivated.
+###  I am a senior web developer and web addict, passionate about by web technologies. I enjoy my work, teamworking on cool projects and have plenty ideas. I'm currently interessed in React and functional programming. I'm always motivated.
 
 # Experience
 
@@ -53,3 +52,51 @@ I am a senior web developer and web addict, passionate about by web technologies
 - Developed the site back office in ASP
 - Worked in a team of 10 developers on a Java multiplayer game (wordox) in Budapest, Hungary
 - Developed/ported some casual games on mobile phone (Java MIDP)
+
+# Skills
+
+## Programming skills
+
+- Javascript
+- Typescript
+- Python
+- Ruby
+- Java
+
+# Frameworks/libs
+
+- Javascript: React, Redux, mobX, Angular
+- CSS: SCSS, less, emotion, styled components, glamorous
+- Animation: konva, react-motion, react-spring
+
+# Work environment
+
+- System: Mac OSX, Linux
+- Version control: git
+
+# Languages
+
+- French: fluent
+- English: fluent
+- German: not so fluent
+- Japanese: learning in progress
+
+# Hobbies
+
+- Building simple things, just for fun, here are a few examples:
+
+  - <details>
+      <summary>Stickaz, inventor and co-founder</summary>
+      
+      ![Stickaz](http://youpinadi.github.io/images/stickaz.png)
+      </details>
+
+  - <details>
+      <summary>React Image Responsive component</summary>
+
+    ![React Image Responsive component](https://i.ibb.co/CQr5Zbs/Image-2020-07-04-at-10-02-39-PM.png)
+      </details>
+
+  - [My github open source projects](https://github.com/Youpinadi)
+  - Books (Asimov, Pratchett, Steinbeck, Zelazny, Yourcenar, Camus)
+  - Music (i try to play guitar)
