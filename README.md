@@ -1,4 +1,4 @@
-# Nadir Kadem
+Nadir Kadem
 
 > Cell: +33 (0)6.60.82.77.92
 
@@ -20,8 +20,7 @@
 - Worked on the next dailymotion internal SDK (ES6) + added a simple relay implementation
 - Introduced React in Dailymotion (created an universal POC), and pushed the company to switch
 - Worked on the general release workflow and helped build our release system (we ship code to production several times a day)Dailymotion release dashboard
-- Added the GateKeeper concept (live feature flag management interface) to Dailymotion. The GateKeeper is called hundreds of millions of times per day. <details>
-    <summary>Dailymotion Gatekeeper</summary>
+- <details><summary>Added the GateKeeper concept (live feature flag management interface) to Dailymotion. The GateKeeper is called hundreds of millions of times per day.</summary>
 
   ![Dailymotion Gatekeeper](http://youpinadi.github.io/images/gatekeeper.png)
   </details>
@@ -29,17 +28,18 @@
 - Introduced the Dailymotion Toolkit to drastically improve speed of development and UX coherence all over the site
 - Switched the site to TWIG (doubling page speed)
 - New flash player (new architecture + switch to actionscript 3) with another developer
-- HTML5 version of the site (html5 video player) <details>
-    <summary>Dailymotion HTML5 demo</summary>
+-  <details>
+    <summary>HTML5 version of the site (html5 video player)</summary>
 
-  ![Dailymotion HTML5 demo](http://youpinadi.github.io/images/html5.png)
+    ![Dailymotion HTML5 demo](http://youpinadi.github.io/images/html5.png)
   </details>
 
-- HTML5 interface for Google TV/Chrome Webs Store and future set top boxes : Stream <details>
-  <summary>Dailymotion Stream</summary>
-  
-  ![Dailymotion Stream](http://youpinadi.github.io/images/stream.png)
-</details>
+-  <details>
+    <summary>HTML5 interface for Google TV/Chrome Webs Store and future set top boxes : Dailymotion Stream</summary>
+
+    ![Dailymotion Stream](http://youpinadi.github.io/images/stream.png)
+  </details>
+
 
 ## Observimmo - Developer - 2003-2006
 
