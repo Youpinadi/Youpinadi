@@ -47,7 +47,7 @@
 - Developed new functionalities on the site, and real estate sites leechers
 - Developed a ruby client to insert new real estate classified ads
 
-## Flipside (Vivendi Universal)Developer - Paris - 2000-2003
+## Flipside (Vivendi Universal) - Developer - 2000-2003
 
 - Developed the site back office in ASP
 - Worked in a team of 10 developers on a Java multiplayer game (wordox) in Budapest, Hungary
