@@ -8,13 +8,13 @@
 
 # Experience
 
-## Datadog - Senior Front End Engineed - 2016-present
+## Datadog - Senior Front End Engineer - 2016-present
 
 - Worked on the creation of the APM (Application Performance Monitoring) tool and helped make it through GA.
 - Worked on trace search (live APM traces) and helped make it through GA. The tool is an interface meant to slice and dice throught billions of traces.
 - As part of the frontend guild, enforced good pratices and helped to create a design system.
 
-## Dailymotion - Lead Front Developer - 2006-2016
+## Dailymotion - Lead Front End Engineer - 2006-2016
 
 - Management/recruitment/training of a team of 13 developers
 - Worked on the next dailymotion internal SDK (ES6) + added a simple relay implementation
