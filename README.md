@@ -8,7 +8,7 @@
 
 # Experience
 
-## Datadog - Front End Engineed - 2016-present
+## Datadog - Senior Front End Engineed - 2016-present
 
 - Worked on the creation of the APM (Application Performance Monitoring) tool and helped make it through GA.
 - Worked on trace search (live APM traces) and helped make it through GA. The tool is an interface meant to slice and dice throught billions of traces.
