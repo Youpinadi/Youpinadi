@@ -1,9 +1,5 @@
 # Nadir Kadem
 
-> Cell: +33 (0)6.60.82.77.92
-
-> Email: nadir.kadem@gmail.com
-
 ###  I am a senior web developer and web addict, passionate about by web technologies. I enjoy my work, teamworking on cool projects and have plenty ideas. I'm currently interessed in React and functional programming. I'm always motivated.
 
 # Experience
